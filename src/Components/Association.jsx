@@ -1,7 +1,6 @@
 import isbm from '../../public/isbm.jpg'
-import kalinga from '../../public/kalinga.jpg'
-import mats from '../../public/mats.jpg'
-import niilm from '../../public/niilm.jpg'
+import sikkim from '../../public/sikkim.jpg'
+import alpine from '../../public/alpine.jpeg'
 import ne_frontier from '../../public/ne_frontier.jpg'
 import open_school from '../../public/open_school.jpg'
 
@@ -16,22 +15,17 @@ const Association = () => {
         },
         {
             id:2,
-            logo:kalinga,
+            logo:sikkim,
             // name:"KALINGA UNIVERSITY",
-            liveLink:"https://admissions.kalingauniversity.ac.in/?utm_source=collegedunia&utm_medium=text11&utm_campaign=online",
+            liveLink:"https://ssu.ac.in/",
         },
         {
             id:3,
-            logo:mats,
+            logo:alpine,
             // name:"MATS UNIVERSITY",
-            liveLink:"https://matsuniversity.ac.in/",
+            liveLink:"https://sikkimalpineuniversity.edu.in/",
         },
-        {
-            id:4,
-            logo:niilm,
-            // name:"NIILM UNIVERSITY",
-            liveLink:"https://www.niilmuniversity.ac.in/",
-        },
+        
         {
             id:5,
             logo:ne_frontier,
@@ -54,9 +48,9 @@ const Association = () => {
         <hr className='h-1 bg-black rounded-lg w-[200px] mx-auto my-1'/>
        </div>
         <br />
-        <div className='grid grid-cols-2 md:grid-cols-6 gap-3 my-6'>
+        <div className='grid grid-cols-2 md:grid-cols-5 gap-3 my-6 '>
             {cardItem.map(({id,logo,name,liveLink})=>(
-                <div className='md:w-[200px] md:h-[200px] rounded-lg border-[2px] shadow-lg p-1 cursor-pointer hover:scale-110 duration-300' key={id}>
+                <div className='md:w-[200px] md:h-[200px] rounded-lg border-[2px] shadow-lg p-1 cursor-pointer hover:scale-110 duration-300 hover:border hover:border-black' key={id}>
                   <a href={liveLink} target='_blank'><img src={logo} className='w-full h-[100px] md:h-[180px] p-1 border-[2px]' alt="" /></a>
                   <div>
                     <div className='font-bold text-xl mb-2 px-2 text-center'>{name}</div>
