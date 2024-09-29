@@ -13,7 +13,7 @@ const Footer = () => {
             <a href="https://www.instagram.com/b.judhistir/?igsh=eGgwNHZ5bHBhaGpn" target='_blank'><FaInstagram size={24}/></a>
             <a href="https://www.twitter.com" target='_blank'><FaTwitter size={24}/></a>
             <a href="https://www.youtube.com" target='_blank'><FaYoutube size={24}/></a>
-            <a href="https://wa.me/8117036222" target='_blank'><FaWhatsapp size={24} className="text-green-700" /></a>
+            <a href="https://wa.me/9439955337" target='_blank'><FaWhatsapp size={24} className="text-green-700" /></a>
         </div>
         <div className='mt-8 border-t border-gray-800 pt-8 flex flex-col items-center'>
            <p className='text-sm'>© 2024 Career Builder Professional Studies(CBPS)</p>
