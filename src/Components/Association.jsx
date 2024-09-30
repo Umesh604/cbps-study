@@ -3,6 +3,9 @@ import sikkim from '../../public/sikkim.jpg'
 import alpine from '../../public/alpine.jpeg'
 import ne_frontier from '../../public/ne_frontier.jpg'
 import open_school from '../../public/open_school.jpg'
+import subharti from '../../public/subharti.jpeg'
+import nios from '../../public/nios.jpeg'
+import mahgu from '../../public/mahgu.jpeg'
 
 const Association = () => {
 
@@ -37,6 +40,24 @@ const Association = () => {
             logo:open_school,
             // name:"BOARD OF OPEN SCHOOLING AND SKILL EDUCATION",
             liveLink:"https://www.bosse.ac.in/",
+        },
+        {
+            id:7,
+            logo:subharti,
+            // name:"BOARD OF OPEN SCHOOLING AND SKILL EDUCATION",
+            liveLink:"https://www.subhartidde.com/",
+        },
+        {
+            id:8,
+            logo:nios,
+            // name:"BOARD OF OPEN SCHOOLING AND SKILL EDUCATION",
+            liveLink:"https://www.nios.ac.in/",
+        },
+        {
+            id:9,
+            logo:mahgu,
+            // name:"BOARD OF OPEN SCHOOLING AND SKILL EDUCATION",
+            liveLink:"https://hgu.ac.in/",
         },
     ]
 
