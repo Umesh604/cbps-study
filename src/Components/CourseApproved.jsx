@@ -2,6 +2,7 @@ import React from 'react'
 import img1 from '../../public/link1.jpg'
 import img2 from '../../public/link2.jpg'
 import img3 from '../../public/link3.jpg'
+import pci from '../../public/pci.jpeg'
 
 const CourseApproved = () => {
   return (
@@ -14,6 +15,7 @@ const CourseApproved = () => {
          <div className='flex gap-4 items-center justify-center'>
             <a href="https://www.aicte-india.org/" target='_blank'><img src={img1} width={75} height={75} alt="" /></a>
             <a href="https://www.ugc.gov.in/" target='_blank'><img src={img2} width={80} height={80} alt="" /></a>
+            <a href="https://www.pci.nic.in/" target='_blank'><img src={pci} width={80} height={80} alt="" /></a>
             <a href="https://ncte.gov.in/Website/Index.aspx" target='_blank'><img src={img3} width={90} height={90} alt="" /></a>
          </div>
       </div>
