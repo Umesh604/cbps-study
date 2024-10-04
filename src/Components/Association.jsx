@@ -6,6 +6,7 @@ import open_school from '../../public/open_school.jpg'
 import subharti from '../../public/subharti.jpeg'
 import nios from '../../public/nios.jpeg'
 import mahgu from '../../public/mahgu.jpeg'
+import muniv from '../../public/muniv.jpeg'
 
 const Association = () => {
 
@@ -27,6 +28,12 @@ const Association = () => {
             logo:alpine,
             // name:"MATS UNIVERSITY",
             liveLink:"https://sikkimalpineuniversity.edu.in/",
+        },
+         {
+            id:4,
+            logo:muniv,
+            // name:"NEF UNIVERSITY",
+            liveLink:"https://www.mangalayatan.in/",
         },
         
         {
