@@ -9,7 +9,7 @@ const Footer = () => {
      <div className='max-w-screen-2xl container mx-auto px-4 md:px-20'>
         <div className='flex flex-col justify-center items-center'>
         <div className='flex space-x-4'>
-            <a href="https://www.facebook.com/profile.php?viewas=100000686899395&id=61566896350317" target='_blank'><FaFacebook size={24} className="text-green-700"/></a>
+            <a href="https://www.facebook.com/people/Career-Builder-professional-Studies/61566896350317/?rdid=TcqiigMufUQA20Zq&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fnbuui3BM93qrAdcH%2F" target='_blank'><FaFacebook size={24} className="text-green-700"/></a>
             <a href="https://www.instagram.com/b.judhistir/?igsh=eGgwNHZ5bHBhaGpn" target='_blank'><FaInstagram size={24}/></a>
             <a href="https://www.twitter.com" target='_blank'><FaTwitter size={24}/></a>
             <a href="https://www.youtube.com" target='_blank'><FaYoutube size={24}/></a>
