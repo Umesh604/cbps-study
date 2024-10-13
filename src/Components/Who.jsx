@@ -47,7 +47,7 @@ const Who = () => {
 
           <li className='list-disc ml-1'><span className='font-semibold text-blue-600'>Paramedical Courses</span> -School of Paramedical (BPH, MPH, BMLT, MPHW, BPT,CMS&ED,  DMLT, Diploma Courses,  PG Diploma Courses, Certificate Courses)</li>
           <li className='list-disc ml-1'><span className='font-semibold text-blue-600'>LAW Courses</span> - School of LAW  (LLB, LLM, B.A LLB)</li>
-          <li className='list-disc ml-1'><span className='font-semibold text-blue-600'>Pharmaceutical Science Courses</span> - School of Pharmaceutical Science   (D.Pharam, B.Pharam,  M.Pharam)</li>
+          <li className='list-disc ml-1'><span className='font-semibold text-blue-600'>Pharmaceutical Science Courses</span> - School of Pharmaceutical Science   (D.Pharm, B.Pharm,  M.Pharm)</li>
         </ul>
         </div>
       {/* </div> */}
