@@ -40,10 +40,15 @@ const Who = () => {
           <li className='list-disc ml-1'><span className='font-semibold text-blue-600'>CLASS X</span> - For Dropped Students from Open Schools like NIOS, BOSSE</li>
           <li className='list-disc ml-1'><span className='font-semibold text-blue-600'>CLASS XII</span> - Arts /Commerce/ Science from Open Schooling</li>
           <li className='list-disc ml-1'><span className='font-semibold text-blue-600'>Graduation Courses</span> - B.A., B.Com, B.Sc, BBA, BCA, BSW, B.Lib</li>
-          <li className='list-disc ml-1'><span className='font-semibold text-blue-600'>Post-Graduation Courses</span> - M.A., M.Com, M.Sc, MBA, MCA, MSW, M.Lib</li>
-          <li className='list-disc ml-1'><span className='font-semibold text-blue-600'>Technical Courses</span> - DIPLOMA (All trades Civil, Mechanical, Electcicals, CS, IT)</li>
-          <li className='list-disc ml-1'><span className='font-semibold text-blue-600'>B.Tech Courses</span> - B.Tech (Mechanical, Electricals, Computer Science, IT)</li>
-            </ul>
+          <li className='list-disc ml-1'><span className='font-semibold text-blue-600'>Post-Graduation Courses</span> - M.A., M.Com, M.Sc, MBA, MCA, MSW, M.Lib, PGDIS, PGDCA</li>
+          <li className='list-disc ml-1'><span className='font-semibold text-blue-600'>Technical Courses</span> - DIPLOMA (All trades Civil, Mechanical, Electcicals, Computer Science, Information Technology, Chemical, Metallurgy, Bio Technology, Mining )</li>
+          <li className='list-disc ml-1'><span className='font-semibold text-blue-600'>B.Tech. Courses</span> - B.Tech. (All trades Civil, Automobile, Mechanical, Electrical, Computer Science, Information Technology,  Metallurgy, Bio Technology, Mining)</li>
+         <li className='list-disc ml-1'><span className='font-semibold text-blue-600'>M.Tech. Courses</span> - M.Tech. (All trades Civil, Automobile, Mechanical, Electrical, Computer Science, Information Technology,  ETC, Bio Technology)</li>  
+
+          <li className='list-disc ml-1'><span className='font-semibold text-blue-600'>Paramedical Courses</span> -School of Paramedical (BPH, MPH, BMLT, MPHW, BPT,CMS&ED,  DMLT, Diploma Courses,  PG Diploma Courses, Certificate Courses)</li>
+          <li className='list-disc ml-1'><span className='font-semibold text-blue-600'>LAW Courses</span> - School of LAW  (LLB, LLM, B.A LLB)</li>
+          <li className='list-disc ml-1'><span className='font-semibold text-blue-600'>Pharmaceutical Science Courses</span> - School of Pharmaceutical Science   (D.Pharam, B.Pharam,  M.Pharam)</li>
+        </ul>
         </div>
       {/* </div> */}
         
