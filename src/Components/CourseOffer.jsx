@@ -116,7 +116,8 @@ const CourseOffer = () => {
             <li className='font-semibold list-disc ml-2'>M.Sc(CS/IT)</li>
           </ul>
             </div>
-            
+
+          
         </div>
 
 
