@@ -25,7 +25,7 @@ const CourseOffer = () => {
           </div>
 
           <div className='mt-5'>
-          <p className='font-semibold text-blue-700'>Visit us today or Call us at 9439955337</p>
+          <p className='font-semibold text-blue-700'>Visit us today or Call us at 9439955337/9078678382</p>
           <p className='font-semibold'>Board of open schooling & skill Education(BOOSE), Sikkim</p>
           <h1 className='font-bold mt-5'>Documents Require for Enrollment in Class X</h1>
           <ul>
@@ -52,7 +52,7 @@ const CourseOffer = () => {
         </div>
 
         <div className='mt-5'>
-          <p className='font-semibold text-blue-700'>Visit us today or Call us at 9439955337</p>
+          <p className='font-semibold text-blue-700'>Visit us today or Call us at 9439955337/9078678382</p>
           <h1 className='font-bold mt-5'>Documents Require for Enrollment in Class XII</h1>
           <ul>
             <li className='font-semibold list-disc ml-2'>Adhar Card</li>
@@ -73,6 +73,8 @@ const CourseOffer = () => {
             <li className='font-semibold list-disc ml-2'>Economics</li>
             <li className='font-semibold list-disc ml-2'>Political Science</li>
             <li className='font-semibold list-disc ml-2'>Sociology</li>
+            <li className='font-semibold list-disc ml-2'>History</li>
+            <li className='font-semibold list-disc ml-2'>English</li>
           </ul>
             </div>
 
