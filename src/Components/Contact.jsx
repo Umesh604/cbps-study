@@ -41,7 +41,7 @@ const Contact = () => {
                </div>
                <h1 className='text-xl font-bold mb-5 text-center'>REACH US THROUGH</h1>
           <ul className="space-y-3 mt-10 justify-center items-center">
-            <li className="flex gap-2 items-center"><a href="https://maps.app.goo.gl/S9AYXzo9tYpvMzgz5" target="_blank"><FaLocationDot className="text-blue-500" /></a>Railway Colony,Rourkela,Dist-Sundergarh, Odisha, India, PIN-769013</li>
+            <li className="flex gap-2 items-center"><a href="https://maps.app.goo.gl/SSrRy2ZRLSuW7ATT7" target="_blank"><FaLocationDot className="text-blue-500" /></a>SA-33, Shakti Nagar, Rourkela ,Dist-Sundergarh, Odisha, India, PIN-769042</li>
             <li className="flex gap-2 items-center"><a href="tel:+919439955337"><FaPhone className="text-blue-500" /></a>+91 9439955337</li>
             <li className="flex gap-2 items-center"><a href="tel:+919078678382"><FaPhone className="text-blue-500" /></a>+91 9078678382</li>
             <li className="flex gap-2 items-center"><a href="https://wa.me/9439955337" target="_blank"><FaWhatsapp className="text-green-700" /></a>+91 9439955337</li>
