@@ -63,12 +63,6 @@ const Association = () => {
             liveLink:"https://www.nios.ac.in/",
         },
         {
-            id:9,
-            logo:mahgu,
-            // name:"BOARD OF OPEN SCHOOLING AND SKILL EDUCATION",
-            liveLink:"https://hgu.ac.in/",
-        },
-        {
             id:10,
             logo:dhamma,
             // name:"Dhamma Dipa International Buddhist University",
