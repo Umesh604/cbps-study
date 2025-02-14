@@ -7,7 +7,7 @@ import subharti from '../../public/subharti.jpeg'
 import nios from '../../public/nios.jpeg'
 import mahgu from '../../public/mahgu.jpeg'
 import muniv from '../../public/muniv.jpeg'
-import dhamma from '../../public/dhamma.png'
+import dhamma from '../../public/dhamma2.png'
 import arka from '../../public/arka.png'
 
 const Association = () => {
