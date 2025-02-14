@@ -7,6 +7,8 @@ import subharti from '../../public/subharti.jpeg'
 import nios from '../../public/nios.jpeg'
 import mahgu from '../../public/mahgu.jpeg'
 import muniv from '../../public/muniv.jpeg'
+import dhamma from '../../public/dhamma.png'
+import arka from '../../public/arka.png'
 
 const Association = () => {
 
@@ -65,6 +67,18 @@ const Association = () => {
             logo:mahgu,
             // name:"BOARD OF OPEN SCHOOLING AND SKILL EDUCATION",
             liveLink:"https://hgu.ac.in/",
+        },
+        {
+            id:10,
+            logo:dhamma,
+            // name:"Dhamma Dipa International Buddhist University",
+            liveLink:"https://www.ddibu.in/",
+        },
+        {
+            id:11,
+            logo:arka,
+            // name:"ARKA JAIN UNIVERSITY",
+            liveLink:"https://arkajainuniversity.ac.in/",
         },
     ]
 
