@@ -39,12 +39,6 @@ const Association = () => {
         },
         
         {
-            id:5,
-            logo:ne_frontier,
-            // name:"NEF UNIVERSITY",
-            liveLink:"https://www.neftu.edu.in/",
-        },
-        {
             id:6,
             logo:open_school,
             // name:"BOARD OF OPEN SCHOOLING AND SKILL EDUCATION",
