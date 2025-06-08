@@ -116,6 +116,19 @@ const CourseOffer = () => {
             <li className='font-semibold list-disc ml-2'>M.Sc(CS/IT)</li>
           </ul>
             </div>
+        
+          <div className='md:w-[400px] md:h-auto rounded-lg border-[2px] shadow-lg p-4 cursor-pointer hover:scale-110 duration-300'>
+            <h1 className='text-3xl text-center font-bold'>Short Term Course</h1>
+          <p className='mt-10'>Short term course will cover a detailed and practical oriented certified couese on various programming languages essential to have growth in various IT sector companies and Research. Duration of Course will be 30 to 45 days.</p>
+            <ul className='mt-5'>
+            <li className='font-semibold list-disc ml-2'>C</li>
+            <li className='font-semibold list-disc ml-2'>C++</li>
+            <li className='font-semibold list-disc ml-2'>Java</li>
+            <li className='font-semibold list-disc ml-2'>Basics of Python</li>
+            <li className='font-semibold list-disc ml-2'>Python in Data Science</li>
+            <li className='font-semibold list-disc ml-2'>Machine learning using Python</li>
+          </ul>
+            </div>
 
           
         </div>
