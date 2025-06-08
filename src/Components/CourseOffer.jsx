@@ -119,7 +119,7 @@ const CourseOffer = () => {
         
           <div className='md:w-[400px] md:h-auto rounded-lg border-[2px] shadow-lg p-4 cursor-pointer hover:scale-110 duration-300'>
             <h1 className='text-3xl text-center font-bold'>Short Term Course</h1>
-          <p className='mt-10'>Short term course will cover a detailed and practical oriented certified couese on various programming languages essential to have growth in various IT sector companies and Research. Duration of Course will be 30 to 45 days.</p>
+          <p className='mt-10'>Short term course will cover a detailed and practical oriented certified courses on various programming languages essential to have growth in various IT sector companies and Research. Duration of Course will be 30 to 45 days.</p>
             <ul className='mt-5'>
             <li className='font-semibold list-disc ml-2'>C</li>
             <li className='font-semibold list-disc ml-2'>C++</li>
@@ -130,6 +130,29 @@ const CourseOffer = () => {
           </ul>
             </div>
 
+           <div className='md:w-[400px] md:h-auto rounded-lg border-[2px] shadow-lg p-4 cursor-pointer hover:scale-110 duration-300'>
+            <h1 className='text-3xl text-center font-bold'>Pre placement training for job aspirant</h1>
+          <p className='mt-10'>Pre placement traininge will cover a detailed and practical oriented course to help students for appearing and cracking job interview across all fields. It enhance the students personality and professional skills. Duration of Course will be 30 days. It covers training on following areas.</p>
+            <ul className='mt-5'>
+            <li className='font-semibold list-disc ml-2'>Professional Resume Writing</li>
+            <li className='font-semibold list-disc ml-2'>Communicational Skill</li>
+            <li className='font-semibold list-disc ml-2'>Aptitude, Reasoning and Verbal Ability classes</li>
+            <li className='font-semibold list-disc ml-2'>Brief Technical knowledge for Technical Round </li>
+            <li className='font-semibold list-disc ml-2'>Brief guidance on HR and MR Round</li>
+            <li className='font-semibold list-disc ml-2'>Mock interviews from experts</li>
+          </ul>
+            </div>
+
+          <div className='md:w-[400px] md:h-auto rounded-lg border-[2px] shadow-lg p-4 cursor-pointer hover:scale-110 duration-300'>
+            <h1 className='text-3xl text-center font-bold'>HR Consultancy</h1>
+          <p className='mt-10'> We provide job orinted training and placement in various companies according to their intrest and ability. It needs to be done through following process. </p>
+            <ul className='mt-5'>
+            <li className='font-semibold list-disc ml-2'>One time Regsitration in offline and Online manner.</li>
+            <li className='font-semibold list-disc ml-2'>One time Registration Fee is Rs. 750.</li>
+            <li className='font-semibold list-disc ml-2'>After regsitration, student will avail 5 chances to be get placed in various companies within 45 days of Registration.</li>
+            <li className='font-semibold list-disc ml-2'>Mock interviews from experts</li>
+            </ul>
+            </div>
           
         </div>
 
