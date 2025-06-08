@@ -127,6 +127,7 @@ const CourseOffer = () => {
             <li className='font-semibold list-disc ml-2'>Basics of Python</li>
             <li className='font-semibold list-disc ml-2'>Python in Data Science</li>
             <li className='font-semibold list-disc ml-2'>Machine learning using Python</li>
+            <li className='font-semibold list-disc ml-2'>Cyber Security</li>
           </ul>
             </div>
 
