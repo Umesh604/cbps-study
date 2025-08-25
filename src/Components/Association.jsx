@@ -9,6 +9,8 @@ import mahgu from '../../public/mahgu.jpeg'
 import muniv from '../../public/muniv.jpeg'
 import dhamma from '../../public/dhamma2.png'
 import arka from '../../public/arka.png'
+import Arni from '../../public/Arni.png'
+import dwrunv from '../../public/dwrunv.png'
 
 const Association = () => {
 
@@ -68,6 +70,18 @@ const Association = () => {
             // name:"ARKA JAIN UNIVERSITY",
             liveLink:"https://arkajainuniversity.ac.in/",
         },
+        {
+            id:12,
+            logo:Arni,
+            // name:"ARKA JAIN UNIVERSITY",
+            liveLink:"https://arniuniversity.edu.in/",
+        },
+        {
+            id:13,
+            logo:dwrunv,
+            // name:"ARKA JAIN UNIVERSITY",
+            liveLink:"https://www.srdu.in/",
+        },
     ]
 
   return (
@@ -95,3 +109,4 @@ const Association = () => {
 }
 
 export default Association
+
